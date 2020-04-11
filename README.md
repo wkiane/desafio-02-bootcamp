@@ -1,5 +1,3 @@
-# desafio-02-bootcamp
-
 # Aplicação desenvolvida para gerenciamento de repositórios - Front-end Web
 
 ### Packages usados no projeto:
