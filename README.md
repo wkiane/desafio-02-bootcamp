@@ -8,6 +8,6 @@
 
 ### Funcionalidades
 
-Listagem de todos repositórios
-Possibilidade de criar um novo repositório
-Possibilidade de excluir um repositório
+- Listagem de todos repositórios
+- Possibilidade de criar um novo repositório
+- Possibilidade de excluir um repositório
